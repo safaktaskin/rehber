@@ -6,7 +6,6 @@ public class Kisi {
         private String ad;
         private String soyad;
         private String numara;
-        //int id;
 
         public String getAd() {
             return ad;
